@@ -1,0 +1,53 @@
+{
+  "btn_intro": "Sobre mim",
+  "btn_work": "Experiências",
+  "btn_skills": "Habilidades",
+  "text_intro": "<p>Com mais de <strong>18 anos de experiência</strong> em ciência de dados, engenharia de software e analise de dados, sou <strong>Rodrigo Silva Pereira</strong>, um especialista focado em transformar dados complexos em <em>insights</em> acionáveis e soluções de alto impacto.</p> <p>Atualmente, atuo como <strong>Senior Data Scientist no Ministério da Gestão e da Inovação em Serviços Públicos</strong> , onde lidero iniciativas que combinam <strong>Machine Learning</strong>, <strong>Processamento de Linguagem Natural (NLP)</strong> e orquestração robusta de <em>data pipelines</em> utilizando <strong>Airflow</strong> e <strong>Docker</strong>.</p> <p>Minha carreira é marcada por conquistas como o desenvolvimento de mais de 10 <em>pipelines</em> ETL, a implementação de modelos avançados de machine learning e a otimização de recursos computacionais, resultando em melhorias de até <strong>25%</strong>. Possuo uma sólida base acadêmica com <strong>Mestrado (MSc)</strong> em Computação Aplicada a Modelagem e Simulação e <strong>MBA</strong> com ênfase em Data Science, Inteligencia Artificial e Big Data.</p> <p>Sou um profissional apaixonado por inovação, com expertise em ferramentas como <strong>Python</strong>, <strong>PL/SQL</strong>, e <strong>Git</strong>, sempre em busca do próximo desafio para gerar resultados transformadores através de um trabalho colaborativo.</p> <p>Confira alguns dos meus <a href=\"#work\" alt=\"work\"> trabalhos </a> e <a href=\"#skills\" alt=\"skills\"> habilidades </a>atuais para ver minha experiência técnica. </p>",
+
+  "href_work1": "https://www.gov.br/economia/pt-br",
+  "href_work2": "https://www.gov.br/anvisa/pt-br",
+  "href_work3": "https://www.pucrs.br/",
+  "href_work4": "https://www.datacom.com.br/",
+  "title_work1": "🇧🇷 <a href=\"https://www.gov.br\" alt=\"Ministério da Gestão e da Inovação em Serviços Públicos\"> Ministério da Gestão e da Inovação em Serviços Públicos <p> Senior Data Scientist | Jan 2022 – Dez 2024 (3 anos) </p>",
+  "text_work1": "<li> Aplicação de estatística avançada e visualização de dados utilizando Python. </li> <li>Utilização de Apache Airflow para orquestração de pipelines. </li><li>Implementação Criação de painéis digitais com o ranking e o índice de maturidade dos serviços digitais do governo federal </li>",
+  "title_work2": "💊 <a href=\"https://www.gov.br/anvisa\" alt=\"ANVISA\"> ANVISA </a> <p> Data Science Specialist | Jun 2021 – Dez 2024 (3 anos e 7 meses) </p>",
+  "text_work2": "<li> Utilização de técnicas de Processamento de Linguagem Natural (NLP) para classificação de grande volume de dados. </li> <li> Agregação de grandes volumes de informação de diferentes fontes e organização em formatos de visualização mais simples. </li><li> Aplicação de estatística, testes, distribuições e técnicas de machine learning para buscar padrões e identificar tendências. </li><li> Aprimoramento na tomada de decisão estratégica através de análise detalhada de dados e técnicas data-driven. </li>",
+  "title_work3": "📚 <a href=\"https://www.pucrs.br\" alt=\"PUC-RS\"> PUC-RS </a>  <p> Software Engineer and Technical Lead | Nov 2018 – Jun 2021 (2 anos e 8 meses) </p>",
+  "text_work3": "<li> Liderança na geração de soluções em mais de 180 aplicações de controle e gestão universitária. </li> <li> Liderança de uma equipe de 5 desenvolvedores na reformulação do sistema de gestão de casos. </li><li> Otimização de queries em PL/SQL, resultando em uma melhoria de 40% na performance do banco de dados. </li>",
+  "title_work4": "🏭 <a href=\"https://www.datacom.com.br\" alt=\"Datacom\">Datacom</a> <p> Team Lead / Data Analyst / Senior Software Engineer | Aug 2009 – Mar 2016 (6 anos e 8 meses)   </p>",
+  "text_work4": "<li> Implementação de metodologias Scrum, melhorando a produtividade e o tempo de entrega de projetos em 25%.   </li> <li> Liderança em esforços de teste, reduzindo defeitos pós-lançamento em 30%.  </li> <li> Sucesso na liderança de uma equipe de 10 desenvolvedores, garantindo o cumprimento de marcos do projeto. </li>",
+ 
+
+ "stat_number1": "170M+",
+ "stat_label1": "Cidadãos Impactados",
+ "stat_number2": "10+",
+ "stat_label2": "ETL Pipelines Desenvolvidos",
+ "stat_number3": "4+",
+ "stat_label3": "Anos de Experiencia como Líder de time",
+ "stat_number4": "6+",
+ "stat_label4": "Anos de Experiencia em Data Science e Machine Learning",
+
+
+
+
+  "title_skills1": "Expertise",
+  "text_skills1":  "<li> 18+ anos de experiência em Engenharia de Software, Ciência de Dados e Analise de Dados. </li>  <li>MBA em Ciencia de Dados, Inteligência Artificial e Big Data, <a href=\"https://www.pucrs.br\" alt=\"PUC-RS\"> PUC-RS </a>(2020-2021) </li> <li> Mestrado (MSc) em Computação Aplicada a Modelagem e Simulação – <a href=\"https://www.unisinos.br\" alt=\"UNISINOS\">UNISINOS </a>(2014 - 2016) </li> <li>BAcharel em Sistemas de Informação – <a href=\"https://www.ulbra.com.br\" alt=\"ULBRA\">ULBRA </a> (2004 - 2010)</li> <li>6+ years Data Science </li> <li>4+ years leading teams </li>",
+  
+  "title_skills2": "Data Science & Machine Learning",
+  "text_skills2": "<li> <img height=\"17\" src=\"images/tech/jupyter.png\"> Jupyter Notebook </li> <li> <img height=\"17\" src=\"images/tech/pandas.png\"> Pandas </li>  <li><img height=\"17\" src=\"images/tech/numpy.png\"> Numpy </li> <li><img height=\"17\" src=\"images/tech/matplotlib.png\"> Matplotlib </li> <li><img height=\"17\" src=\"images/tech/seaborn.png\"> Seaborn </li> <li> <img height=\"17\" src=\"images/tech/scikitlearn.png\"> Scikit-Learn </li> <li> <img height=\"17\" src=\"images/tech/tensorflow.png\"> TensorFlow </li> <li> <img height=\"17\" src=\"images/tech/keras.png\"> Keras </li> <li> <img height=\"17\" src=\"images/tech/nlp.png\"> NLP </li> <li><img height=\"17\" src=\"images/tech/pytorch.png\"> PyTorch</li><li><img height=\"17\" src=\"images/tech/ML.png\"> Machine Learning </li> <li> <img height=\"17\" src=\"images/tech/DL.png\"> Deep Learning </li>",
+  
+  "title_skills3": "Data Vizualization, Reporting & Analycts",
+  "text_skills3": "<li><img height=\"17\" src=\"images/tech/powerbi.png\"> Power BI</li> <li><img height=\"17\" src=\"images/tech/tableau.png\"> Tableau</li> <li><img height=\"17\" src=\"images/tech/powerpoint.jpg\">Powerpoint</li> <li><img height=\"15\" src=\"images/tech/streamlit.png\"> Streamlit</li><li><img height=\"17\" src=\"images/tech/excel.png\"> Excel</li> <li><img height=\"17\" src=\"images/tech/powerpoint.jpg\"> Power Point</li> <li><img height=\"17\" src=\"images/tech/html.png\">HTML</li> <li><img height=\"17\" src=\"images/tech/css.png\">CSS</li>",
+  
+  "title_skills4": "Data Enginering, DevOps & MLOps ",
+  "text_skills4": "<li> <img height=\"17\" src=\"images/tech/airflow.png\"> Airflow </li> <li> <img height=\"17\" src=\"images/tech/docker.png\"> Docker </li> <li><img height=\"17\" src=\"images/tech/mlflow.png\"> MLflow</li> <li> <img height=\"17\" src=\"images/tech/github.png\"> Git </li> <li> <img height=\"17\" src=\"images/tech/cicd.png\"> CI / CD </li> <li><img height=\"17\" src=\"images/tech/kubernetes.png\"> Kubernetes </li> ",
+  
+  "title_skills5": "Programming Languages, Data Bases & Clouds",
+  "text_skills5": "<li><img height=\"17\" src=\"images/tech/python.png\"> Python</li> <li><img height=\"17\" src=\"images/tech/javascript.png\">JavaScript </li>  <li> <img height=\"17\" src=\"images/tech/Oracle.png\"> Oracle - PL/SQL </li> <li> <img height=\"17\" src=\"images/tech/sqlserver.png\"> SQL Server </li> <li> <img height=\"17\" src=\"images/tech/sql.png\"> SQL </li> <li><img height=\"17\" src=\"images/tech/postgres.png\"> PostgreSQL </li><li> <img height=\"17\" src=\"images/tech/mongodb.png\"> Mongo DB </li> <li> <img height=\"17\" src=\"images/tech/mysql.png\"> MySQL </li> <li> <img height=\"17\" src=\"images/tech/aws.png\"> AWS </li> <li> <img height=\"17\" src=\"images/tech/gcp.png\"> Google Cloud Platform </li> <li> <img height=\"17\" src=\"images/tech/azure.png\"> Azure </li> <li><img height=\"17\" src=\"images/tech/github.png\"> Git</li> ",
+
+  "title_skills6": "Formação Acadêmica",
+  "text_skills6": "<li> MBA in Data Science, AI e Big Data – <a href=\"https://www.pucrs.br\" alt=\"PUC-RS\"> PUC-RS </a>(2020-2021) </li> <li>Master (MSc) in Computing Applied to Modeling and Simulation – UNISINOS (2014 - 2016)</li> <li> Bachelor's Degree in Computer Science – ULBRA (2004 - 2010) </li>",
+  
+  "title_skills7": "Cursos & Certificatificações",
+  "text_skills7": "<li>Apache Airflow in Practice: From Zero to Deploy, with Python </li><li>Data Science from Extraction to Data Visualization</li><li>User Advocacy and Simplification of Digital Public Services</li><li>Java Developer with JDBC, JPA, Spring, Swing</li><li>Personal Management - Foundation of Leadership</li><li>Data Governance</li><li>Make Generative AI applications using Langchain, Python, Pinecone, OpenAI, Gemini Streamlit and more</li><li>Agile Methods with SCRUM</li><li>The role of leadership in ICT governance in the face of digital transformation - Cassio Dreyfus (Gartner)</li><li>First steps to using Plain Language</li><li>Personal Data Protection in the Public Sector</li><li>React fundamental - create your first project!</li><li>Unveiling Artificial Intelligence in Public Administration (Class NOV/2024)</li><li>Agile in the context of public service</li>"
+}

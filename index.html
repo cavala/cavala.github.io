@@ -1,0 +1,420 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Rodrigo Pereira's Portfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<style>
+		.grid-container {
+			display: grid;
+			grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+			gap: 10px;
+			align-items: center;
+			justify-items: center;
+		}
+		.grid-item {
+			/* background-color: rgba(255, 255, 255, 0.8); */
+			/* border: 1px solid rgba(0, 0, 0, 0.8); */
+			padding: 20px;
+			font-size: 1.5em;
+			text-align: center;
+		}
+		.grid-item img {
+			max-width: 100%;
+			height: auto;
+		}
+		
+		/* Work Section Infographic Styles */
+		.impact-stats {
+			display: grid;
+			grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+			gap: 20px;
+			margin: 2em 0;
+			text-align: center;
+		}
+		.stat-box {
+			background: rgba(255, 255, 255, 0.05);
+			border: 2px solid rgba(255, 255, 255, 0.1);
+			border-radius: 8px;
+			padding: 1.5em 1em;
+			transition: all 0.3s ease;
+		}
+		.stat-box:hover {
+			background: rgba(255, 255, 255, 0.08);
+			border-color: rgba(255, 255, 255, 0.2);
+			transform: translateY(-5px);
+		}
+		.stat-number {
+			display: block;
+			font-size: 2.5em;
+			font-weight: bold;
+			color: #ffffff;
+			line-height: 1;
+			margin-bottom: 0.3em;
+			text-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+		}
+		.stat-label {
+			display: block;
+			font-size: 0.85em;
+			color: rgba(255, 255, 255, 0.7);
+			text-transform: uppercase;
+			letter-spacing: 0.1em;
+			line-height: 1.4;
+		}
+		.work-item {
+			margin-bottom: 2em;
+			padding: 1.5em;
+			background: rgba(255, 255, 255, 0.02);
+			border-left: 3px solid rgba(255, 255, 255, 0.1);
+			transition: all 0.3s ease;
+		}
+		.work-item:hover {
+			background: rgba(255, 255, 255, 0.05);
+			border-left-color: rgba(255, 255, 255, 0.3);
+		}
+		.work-title {
+			margin-bottom: 0.5em;
+			color: #ffffff;
+		}
+	</style>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon"><img src="./images/logo1.png" width="60%" height="60%" alt="" style="position:relative;top:20%;"/></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1 data-key="hero_title">RODRIGO PEREIRA'S PORTFOLIO </h1>
+								<p style="text-transform: none; letter-spacing: 0.1rem; font-size: 0.75rem; line-height: 1">
+									
+								<em>  I am always seeking the next challenge and believe in the power of collaborative work to generate transformative results. </em>
+								</p>
+							
+								<button class="button" id="btn-en" >🇺🇸En</button>
+								<button id="btn-pt">🇧🇷Pt-Br</button>
+								
+        					</div>
+						</div>
+						<nav>
+							<ul>
+								
+								<li><a href="#intro" data-key="btn_intro"></a></li>
+								<li><a href="#work" data-key="btn_work">  </a></li>
+								<li><a href="#skills" data-key="btn_skills">  </a></li>
+								
+								
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								
+								<h2 class="major" data-key="btn_intro"> </h2>
+								<span class="image main"><img src="images/about.jpg" alt="" /></span>
+								
+								<p data-key="text_intro"> </p>
+								
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h3 class="major" data-key="btn_work"></h3>
+								<div class="impact-stats">
+									<div class="stat-box">
+										<span class="stat-number" data-key="stat_number1"></span>
+										<span class="stat-label" data-key="stat_label1"></span>
+									</div>
+									<div class="stat-box">
+										<span class="stat-number" data-key="stat_number2"></span>
+										<span class="stat-label" data-key="stat_label2"></span>
+									</div>
+									<div class="stat-box">
+										<span class="stat-number" data-key="stat_number3"></span>
+										<span class="stat-label" data-key="stat_label3"></span>
+									</div>
+									<div class="stat-box">
+										<span class="stat-number" data-key="stat_number4"></span>
+										<span class="stat-label" data-key="stat_label4"></span>
+									</div>
+								</div>
+									
+								<section class="work-item">
+									<h4 class="title-work1" data-key="title_work1" ></h4> 
+									<p data-key="text_work1"> </p>
+								</section>
+
+								<section class="work-item">
+									<h4 data-key="title_work2" data-key="href_work2"> </h4>
+									<p data-key="text_work2"> </p>
+								</section>
+								<section class="work-item">
+									<h4 data-key="title_work3" data-key="href_work3"> </h4>
+									<p data-key="text_work3"> </p>
+								</section>	
+								<section class="work-item">
+									<h4 data-key="title_work4" data-key="href_work4"> </h4>
+									<p data-key="text_work4"> </p>
+								</section>
+							</article>
+
+						<!-- About -->
+							<article id="skills">
+								<h2 class="major" data-key="btn_skills"></h2>
+								
+								<section>
+									
+									<h4 data-key="title_skills1"></h4>
+									<ul data-key="text_skills1"></ul>
+									<h4 data-key="title_skills2"></h4>
+									<ul data-key="text_skills2"></ul>
+									<h4 data-key="title_skills3"></h4>
+									<ul data-key="text_skills3"></ul>
+									<h4 data-key="title_skills4"></h4>
+									<ul data-key="text_skills4"></ul>
+									<h4 data-key="title_skills5"></h4>
+									<ul data-key="text_skills5"></ul>
+									<h4 data-key="title_skills6"></h4>
+									<ul data-key="text_skills6"></ul>
+									<h4 data-key="title_skills7"></h4>
+									<ul data-key="text_skills7"></ul>
+								</section>
+							</article>
+
+						<!-- Elements -->
+							<article id="elements">
+								<h2 class="major">Elements</h2>
+
+								<section>
+									<h3 class="major">Text</h3>
+									<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+									This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+									This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>. Finally, <a href="#">this is a link</a>.</p>
+									<hr />
+									<h2>Heading Level 2</h2>
+									<h3>Heading Level 3</h3>
+									<h4>Heading Level 4</h4>
+									<h5>Heading Level 5</h5>
+									<h6>Heading Level 6</h6>
+									<hr />
+									<h4>Blockquote</h4>
+									<blockquote>Fringilla nisl. Donec accumsan interdum nisi, quis tincidunt felis sagittis eget tempus euismod. Vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan faucibus. Vestibulum ante ipsum primis in faucibus lorem ipsum dolor sit amet nullam adipiscing eu felis.</blockquote>
+									<h4>Preformatted</h4>
+									<pre><code>i = 0;
+
+while (!deck.isInOrder()) {
+    print 'Iteration ' + i;
+    deck.shuffle();
+    i++;
+}
+
+print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+								</section>
+
+								<section>
+									<h3 class="major">Lists</h3>
+
+									<h4>Unordered</h4>
+									<ul>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Alternate</h4>
+									<ul class="alt">
+										<li>Dolor pulvinar etiam.</li>
+										<li>Sagittis adipiscing.</li>
+										<li>Felis enim feugiat.</li>
+									</ul>
+
+									<h4>Ordered</h4>
+									<ol>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis viverra.</li>
+										<li>Felis enim feugiat.</li>
+										<li>Dolor pulvinar etiam.</li>
+										<li>Etiam vel felis lorem.</li>
+										<li>Felis enim et feugiat.</li>
+									</ol>
+									<h4>Icons</h4>
+									<ul class="icons">
+										<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+										<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+										<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+										<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+									</ul>
+
+									<h4>Actions</h4>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions stacked">
+										<li><a href="#" class="button primary">Default</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+								</section>
+
+								<section>
+									<h3 class="major">Table</h3>
+									<h4>Default</h4>
+									<div class="table-wrapper">
+										<table>
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+
+									<h4>Alternate</h4>
+									<div class="table-wrapper">
+										<table class="alt">
+											<thead>
+												<tr>
+													<th>Name</th>
+													<th>Description</th>
+													<th>Price</th>
+												</tr>
+											</thead>
+											<tbody>
+												<tr>
+													<td>Item One</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Two</td>
+													<td>Vis ac commodo adipiscing arcu aliquet.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Three</td>
+													<td> Morbi faucibus arcu accumsan lorem.</td>
+													<td>29.99</td>
+												</tr>
+												<tr>
+													<td>Item Four</td>
+													<td>Vitae integer tempus condimentum.</td>
+													<td>19.99</td>
+												</tr>
+												<tr>
+													<td>Item Five</td>
+													<td>Ante turpis integer aliquet porttitor.</td>
+													<td>29.99</td>
+												</tr>
+											</tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2"></td>
+													<td>100.00</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>
+								</section>
+
+								<section>
+									<h3 class="major">Buttons</h3>
+									<ul class="actions">
+										<li><a href="#" class="button primary">Primary</a></li>
+										<li><a href="#" class="button">Default</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button">Default</a></li>
+										<li><a href="#" class="button small">Small</a></li>
+									</ul>
+									<ul class="actions">
+										<li><a href="#" class="button primary icon solid fa-download">Icon</a></li>
+										<li><a href="#" class="button icon solid fa-download">Icon</a></li>
+									</ul>
+									<ul class="actions">
+										<li><span class="button primary disabled">Disabled</span></li>
+										<li><span class="button disabled">Disabled</span></li>
+									</ul>
+								</section>
+
+							</article>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/rodrigo--pereira/" class="icon brands fa-linkedin"><span class="label">Linkedin</span></a></li>
+							<li><a href="https://github.com/cavala" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://www.instagram.com/figueirareal/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							 <li><a href="https://www.twitter.com/figueira_real" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li> 
+							<!-- <li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li> -->
+						</ul>
+						<p class="copyright">&copy; by: Rodrigo Pereira. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+			<script src="assets/js/script.js"></script>
+	</body>
+</html>

@@ -2,7 +2,7 @@
   "btn_intro": "Intro",
   "btn_work": "Experiences",
   "btn_skills": "Skills",
-  "text_intro": "<p>With over <strong>18 years of experience </strong> in data science, software engineering, and data analysis, I am <strong>Rodrigo Silva Pereira</strong>, a specialist focused on transforming complex data into actionable insights and high-impact solutions.</p> <p>Currently, I work as a <strong>Senior Data Scientist at the Ministry of Management and Innovation in Public Services </strong>, where I lead initiatives that combine <strong> Machine Learning </strong> , <strong> Natural Language Processing (NLP)</strong> , and robust orchestration of data pipelines using <strong> Airflow </strong> and <strong> Docker</strong> .</p> <p>My career is marked by achievements such as the development of more than 10 ETL pipelines, the implementation of advanced machine learning models, and the optimization of computational resources, resulting in improvements of up to 25%. I have a solid academic background with <strong>Master's degree (MSc)</strong> in Computing Applied to Modeling and Simulation and <strong>MBA</strong> with emphasis on Data Science, AI, and Big Data.</p> <p>I am a professional passionate about innovation, with expertise in tools such as <strong>Python</strong>, <strong>PL/SQL</strong>, and <strong>Git</strong>, always seeking the next challenge to generate transformative results through collaborative work.</p> <p>Check out some of my current <a href=\"#work\" alt=\"work\"> work </a> and <a href=\"#skills\" alt=\"skills\"> skills </a> to see my technical expertise .</p>",
+  "text_intro": "<p>With over <strong>18 years of experience </strong> in data science, software engineering, and data analysis, I am <strong>Rodrigo Silva Pereira</strong>, a specialist focused on transforming complex data into actionable insights and high-impact solutions.</p> <p>Currently, I work as a <strong>Senior Data Scientist at the Ministry of Management and Innovation in Public Services </strong>, where I lead initiatives that combine <strong> Machine Learning </strong> , <strong> Natural Language Processing (NLP)</strong> , and robust orchestration of data pipelines using <strong> Airflow </strong>, <strong> Docker</strong>  and cloud-based technologies.</p> <p> Throughout my career, I have delivered results such as: <p><li> Designing and deploying <strong>10+ ETL pipelines </strong> that improved data reliability and automation.</li> <li> Implementing advanced <strong>machine learning </strong>models for prediction, classification, and natural language understanding.</li> <li>  Optimizing computational resources and workflows, achieving <strong>performance gains of up to 25% </strong>.</li> <p></p><p>I hold a Master’s degree (MSc) in Computing Applied to Modeling and Simulation and an MBA with a focus on Data Science, Artificial Intelligence, and Big Data. My technical stack includes Python, PL/SQL, Git, Docker, Airflow, and modern ML frameworks, supported by a strong analytical mindset and a passion for innovation.</p>  <p>I am committed to solving complex problems, improving public services through data-driven solutions, and delivering measurable impact through collaborative work.</p> <p>Explore my <a href=\"#work\" alt=\"work\"> current projects </a> and and <a href=\"#skills\" alt=\"skills\"> skills </a>  to learn more about my technical expertise and professional achievements.",
 
   "href_work1": "https://www.gov.br/economia/pt-br",
   "href_work2": "https://www.gov.br/anvisa/pt-br",
@@ -24,11 +24,11 @@
  "stat_label1": "Citizens Reached",
  "stat_number2": "10+",
  "stat_label2": "ETL Pipelines Developed",
- "stat_number3": "4+",
- "stat_label3": "Years of Experience as Team Leader",
- "stat_number4": "6+",
- "stat_label4": "Years of Experience on Data Science and Machine Learning",
-
+ "stat_number3": "6+",
+ "stat_label3": "Years of Experience on Data Science and Machine Learning",
+ "stat_number4": "4+",
+ "stat_label4": "Years of Experience as Team Leader",
+ 
 
   "title_skills1": "Expertise",
   "text_skills1":  "<li> 18+ years of experience in Software Engineering, Data Science, and Data Analysis and relatd works. </li> <li>MBA in Data Science, AI e Big Data – <a href=\"https://www.pucrs.br\" alt=\"PUC-RS\">PUC-RS </a> (2020-2021) </li> <li> Master (MSc) in Computing Applied to Modeling and Simulation – <a href=\"https://www.unisinos.br\" alt=\"UNISINOS\">UNISINOS </a> (2014 - 2016) </li> <li>Bachelor's Degree in Information Systems – <a href=\"https://www.ulbra.com.br\" alt=\"ULBRA\">ULBRA </a>(2004 - 2010)</li> <li>6+ years Data Science </li> <li>4+ years leading teams </li>",
